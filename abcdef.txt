@@ -1,1 +1,1 @@
-git merge,fetch,pull
+git merge,fetch,pull pull used fot both merge and fetch
