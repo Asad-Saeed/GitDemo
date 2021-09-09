@@ -1,1 +1,1 @@
-safg
+git merge,fetch,pull
